@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "category": "Bree Updates",
+        "title": "Bree Updates Title",
+        "description": "Latest updates and news from Bree.",
+        "image": "/assets/pexels-137666-710743.jpg"
+
+    },
+    {
+        "id": 2,
+        "category": "Savings",
+        "title": "Savings Title",
+        "description": "Learn how to save money efficiently.",
+        "image": "/assets/pexels-buro-millennial-636760-1438072.jpg"
+
+    },
+    {
+        "id": 4,
+        "category": "Debt",
+        "title": "Debt Title",
+        "description": "Strategies to stay debt-free",
+        "image": "/assets/pexels-expressivestanley-1454360.jpg"
+
+    },
+    {
+        "id": 5,
+        "category": "Earning",
+        "title": "Earning Title",
+        "description": "Ways to increae your income streams",
+        "image": "/assets/pexels-kobeboy-1516440.jpg"
+
+    }
+]
